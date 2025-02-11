@@ -1,10 +1,10 @@
 
-import ChatInterface from "./chatUI";
-
+import RegistrationForm from "./Login";
 export default function Home() {
   return (
     <div>
-     <ChatInterface/>
+     <RegistrationForm/>
+  
     </div>
   );
 }
